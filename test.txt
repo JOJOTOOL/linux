@@ -1,5 +1,10 @@
 ### :set nu
-### :sudo pacman -S vim
+### sudo pacman -S vim
+### git log
+### git remote
+### git status
+### git add .
+### git commit -m "add test.txt 2"
 HI
 LOL
 BBQ
@@ -15,6 +20,7 @@ dsadwqdqwdwq
 sdasdsqaedwq
 
 haha again test
+haha wtf
 dwqdasdw
 dsssss
 if i can do that,i promise that they will pay what they deserve
